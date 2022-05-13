@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+#main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#title{
+    align-items: center;
+    text-align: center;
+}
+
+#title-h1{
+    font-size: 50px;
+    padding-top: 10px;
+}
+
+#h3{
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+#img-caption{
+font-size: 18px;
+font-weight: bold;
+}
+
+#img-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#tribute-info{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#trubuteh1{
+    font-size: 50px;
+    padding-top: 10px;
+}
+ul{
+margin-left: 300px;
+margin-right: 300px;
+}
+
+li a{
+    text-decoration: none;
+    font-size: 20px;
+color:black
+}
+
+#date{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#achievements{
+    justify-content: center;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#life{
+    margin-left: 500px;
+    margin-right: 500px;
+    font-size: 20px;
+ text-align: center;
+}
+
+#tribute-link{
+   margin-top: 30px;
+   margin-bottom: 30px;
+
+   font-size: 30px;
+}
+
